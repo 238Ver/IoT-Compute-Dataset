@@ -1,0 +1,2 @@
+This Dataset consists of heterogeneous IoT jobs/tuples containing the information - TupleName, TupleId, Size of the Tuple (Size of a job), MIPS (Million Instruction per Second), Total processors, RAM size, Bandwidth, Geo-location (Coordinates), DataType (contains Abrupt, smalltextual, medical and sensors etc), Data Percentage, IsReversed (not se…
+      
